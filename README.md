@@ -94,31 +94,31 @@ Contribuições são sempre bem-vindas Por favor, leia o [CONTRIBUTING.md](CONTR
 
 Este projeto está licenciado sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
-
-/projeto-videos-de-aulas\
-│\
-├── backend/\  
-│   ├── src/\  
-│   │   ├── controllers/\
-│   │   ├── models/\  
-│   │   ├── routes/\  
+## Arquitetura básica da v.1
+ ```makdow
+/projeto-videos-de-aulas
+│
+├── backend/  
+│   ├── src/
+│   │   ├── controllers/
+│   │   ├── models/ 
+│   │   ├── routes/  
 │   │   └── server.js\
 │   └── package.json\
-│\
-├── frontend/\  
-│   ├── public/\  
-│   ├── src/\  
-│   │   ├── components/\  
-│   │   ├── pages/\  
-│   │   └── App.js\
-│   └── package.json\
-│\
-├── uploads/\  
-│\
-├── tests/\  
-│   └── README.md\
-│\
+│
+├── frontend/ 
+│   ├── public/  
+│   ├── src/
+│   │   ├── components/  
+│   │   ├── pages/  
+│   │   └── App.js
+│   └── package.json
+│
+├── uploads/  
+│
+├── tests/  
+│
 └── README.md
-
+```
 
 
