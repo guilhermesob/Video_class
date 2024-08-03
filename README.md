@@ -1,5 +1,5 @@
 # Video_class
-video managemnet system.
+video managemnet system. v 0.0.0.1
 
 # Projeto Videos de Aulas
 
